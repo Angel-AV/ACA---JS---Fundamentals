@@ -53,24 +53,6 @@ console.log(numberOfTwo(4589966455, 9))
 
 
 
-// 3. Given two numbers. Print powers of 2 between that numbers. (without using Math.pow)
- 
-function myFunc(num,num1) {
-  let a = 0
-    for (i=0; i < b; i++ )  {
-    a = (num + 1)*2
-    a++
-  }
- return a
-}
-
-let num 
-let num1
-let a = num + 1
-for (let i = 0; i < num1; i++) {
-
-}
-
 
 
 //4 Insert a number. Print “yes” if it contains 3 successive zeros, otherwise print “no”.
